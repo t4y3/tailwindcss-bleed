@@ -1,0 +1,36 @@
+{
+  "name": "tailwindcss-bleed",
+  "version": "0.0.1",
+  "description": "Easy to use full-bleed layout.",
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "package.json",
+    "src/index.js"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/t4y3/tailwindcss-bleed.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "css",
+    "full-bleed",
+    "bleed"
+  ],
+  "author": "Yuki Teraoka (https://github.com/t4y3)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t4y3/tailwindcss-bleed/issues"
+  },
+  "homepage": "https://github.com/t4y3/tailwindcss-bleed#readme",
+  "peerDependencies": {
+    "tailwindcss": ">=3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "tailwindcss": "^3.3.2"
+  }
+}
